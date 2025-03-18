@@ -36,3 +36,7 @@
     --console-address ":9090"
 
 이렇게 하면 minio1, minio2, minio3, minio4가 서로 연결되면서 분산 저장이 가능해진다.
+
+
+코드로 다운로드 받은 파일은 프로젝트 내부에 다운받아짐
+object == key
